@@ -12,3 +12,5 @@ elif choice == 3:
     print("GO")
 else:
     print("Wrong choice")
+
+print("END OF THIS PROGRAM")
